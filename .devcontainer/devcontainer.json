@@ -1,0 +1,5 @@
+{
+  "name": "Teensy 4.0 Builder",
+  "image": "://microsoft.com",
+  "postCreateCommand": "pip install platformio"
+}
